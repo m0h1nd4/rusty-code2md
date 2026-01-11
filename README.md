@@ -37,13 +37,13 @@
 
 ```bash
 # Repository klonen
-git clone https://github.com/m0h1nd4/code2md.git
+git clone https://github.com/m0h1nd4/rusty-code2md.git
 cd code2md
 
 # Release-Build erstellen
 cargo build --release
 
-# Die Binary liegt nun in ./target/release/code2md
+# Die Binary liegt nun in ./target/release/rusty-code2md
 ```
 
 ### Systemweit installieren
@@ -58,7 +58,7 @@ sudo cp target/release/code2md /usr/local/bin/
 
 ### Vorkompilierte Binaries
 
-Vorkompilierte Binaries für gängige Plattformen finden Sie unter [Releases](https://github.com/m0h1nd4/code2md/releases).
+Vorkompilierte Binaries für gängige Plattformen finden Sie unter [Releases](https://github.com/m0h1nd4/rusty-code2md/releases).
 
 ---
 
